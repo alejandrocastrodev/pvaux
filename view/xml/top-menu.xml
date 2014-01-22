@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<links>	
+	<link>
+	    <title>Inicio</title>
+	    <url></url>
+	</link>	
+	<link>
+		<title>Configuracion</title>
+	    <url>settings</url>
+	</link>	
+	<link>
+		<title>Cuenta</title>
+	    <url>acount</url>
+	</link>
+</links>

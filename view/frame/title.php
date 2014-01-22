@@ -1,0 +1,1 @@
+    <title><?= $current_page ?> :: Plan vida AUX</title>
